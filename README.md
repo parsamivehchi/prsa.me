@@ -7,7 +7,7 @@
 ### Current Tasks
 
 | Functions            | Description              |
-| ---------------- | -----------------: |
+| ---------------- | :----------------- |
 | Saranpreet       |   Update current code to accept Consumption v3                 |
 | Rustem           |   Update current code to accept Consumption v3                  |
 | Gursahib         |   Try EPS enter function                 |
