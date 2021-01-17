@@ -8,5 +8,5 @@
 
 | Functions            | Description              |
 | ---------------- | :----------------- |
-| Draggable Blocks       |     |
+| Draggable Blocks       |  Make blocks draggable so the user can reorder them in any way they want`  |
 | Import Bookmarks from Chrome           |     |
